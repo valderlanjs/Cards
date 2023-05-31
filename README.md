@@ -1,6 +1,6 @@
 # Cards
 
 
-|     | Project           | Live Demo                                                             |
+|     | Project               | Live Demo                                                             |
 | :-: | ----------------- | --------------------------------------------------------------        |
 |     | Cards             | [Live Demo](https://valderlanjs.github.io/Cards/)                     |
