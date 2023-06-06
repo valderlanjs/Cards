@@ -98,7 +98,6 @@ ul {
   padding: 0;
   margin: 0 0 30px;
 }
-
 ul li {
   display: flex;
   gap: 10px;
@@ -123,7 +122,6 @@ ul li img {
   font-family: inherit;
   cursor: pointer;
 }
-
 .card button.primary {
   background: #0f71ff;
   color: #f7f7f7;
